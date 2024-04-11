@@ -5,7 +5,7 @@ Upto 6 Headings supported
 
 this is *italic* and this is **bold**
 
-Can use <span style="color:red">html and css too!<span><br>
+Can use <span style="color:red">html and css too!</span><br>
 
 [This is a link](https://www.google.com/)  
 or  
